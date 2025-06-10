@@ -68,14 +68,6 @@ python main.py --switch "PersonaName"
 
 ---
 
-## To Do
-
-- [ ] Implement `--view-journal`
-- [ ] Improve UX with better input handling
-- [ ] Optional encryption for journal entries
-- [ ] Export all entries to a single file (PDF/Markdown)
-
----
 
 ##License
 
